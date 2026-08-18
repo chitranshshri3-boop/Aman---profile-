@@ -1,6 +1,6 @@
 *{box-sizing:border-box}
 body{margin:0;min-height:100vh;background:radial-gradient(circle at top,#10263c,#03070c 60%);color:#f5f7fa;font-family:Arial,Helvetica,sans-serif;display:flex;justify-content:center;align-items:center;padding:20px}
-.card{width:min(100%,460px);padding:22px;border:1px solid #26384d;border-radius:28px;background:linear-gradient(160deg,#0c1723,#050a10);box-shadow:0 25px 70px #0009}
+.card{width:min(100%,460px);padding:22px;border:-1px solid #26384d;border-radius:28px;background:linear-gradient(160deg,#0c1723,#050a10);box-shadow:0 25px 70px #0009}
 .top{display:flex;justify-content:space-between;letter-spacing:2px}.blue{color:#1597ff}
 .avatar{width:150px;height:150px;margin:28px auto 14px;padding:4px;border-radius:50%;background:linear-gradient(135deg,#fff,#1597ff)}
 .avatar img{width:100%;height:100%;object-fit:cover;object-position:center top;border-radius:50%}
